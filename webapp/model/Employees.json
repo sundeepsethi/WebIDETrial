@@ -1,0 +1,201 @@
+[{
+	"Id": 5683,
+	"LastName": "LastName 1",
+	"FirstName": "FirstName 1",
+	"Address": "Address 1",
+	"City": "City 1",
+	"Region": "Region 1",
+	"PostalCode": "PostalCode 1",
+	"Country": "Country 1",
+	"HomePhone": "HomePhone 1",
+	"ResumeID": 8933,
+	"__metadata": {
+		"uri": "Employees(5683)",
+		"type": "NavigationModel.Employee"
+	},
+	"Resume": {
+		"__deferred": {
+			"uri": "Employees(5683)/Resume"
+		}
+	}
+}, {
+	"Id": 4209,
+	"LastName": "LastName 2",
+	"FirstName": "FirstName 2",
+	"Address": "Address 2",
+	"City": "City 2",
+	"Region": "Region 2",
+	"PostalCode": "PostalCode 2",
+	"Country": "Country 2",
+	"HomePhone": "HomePhone 2",
+	"ResumeID": 4857,
+	"__metadata": {
+		"uri": "Employees(4209)",
+		"type": "NavigationModel.Employee"
+	},
+	"Resume": {
+		"__deferred": {
+			"uri": "Employees(4209)/Resume"
+		}
+	}
+}, {
+	"Id": 5966,
+	"LastName": "LastName 3",
+	"FirstName": "FirstName 3",
+	"Address": "Address 3",
+	"City": "City 3",
+	"Region": "Region 3",
+	"PostalCode": "PostalCode 3",
+	"Country": "Country 3",
+	"HomePhone": "HomePhone 3",
+	"ResumeID": 4876,
+	"__metadata": {
+		"uri": "Employees(5966)",
+		"type": "NavigationModel.Employee"
+	},
+	"Resume": {
+		"__deferred": {
+			"uri": "Employees(5966)/Resume"
+		}
+	}
+}, {
+	"Id": 9275,
+	"LastName": "LastName 4",
+	"FirstName": "FirstName 4",
+	"Address": "Address 4",
+	"City": "City 4",
+	"Region": "Region 4",
+	"PostalCode": "PostalCode 4",
+	"Country": "Country 4",
+	"HomePhone": "HomePhone 4",
+	"ResumeID": 8328,
+	"__metadata": {
+		"uri": "Employees(9275)",
+		"type": "NavigationModel.Employee"
+	},
+	"Resume": {
+		"__deferred": {
+			"uri": "Employees(9275)/Resume"
+		}
+	}
+}, {
+	"Id": 522,
+	"LastName": "LastName 5",
+	"FirstName": "FirstName 5",
+	"Address": "Address 5",
+	"City": "City 5",
+	"Region": "Region 5",
+	"PostalCode": "PostalCode 5",
+	"Country": "Country 5",
+	"HomePhone": "HomePhone 5",
+	"ResumeID": 2132,
+	"__metadata": {
+		"uri": "Employees(522)",
+		"type": "NavigationModel.Employee"
+	},
+	"Resume": {
+		"__deferred": {
+			"uri": "Employees(522)/Resume"
+		}
+	}
+}, {
+	"Id": 1369,
+	"LastName": "LastName 6",
+	"FirstName": "FirstName 6",
+	"Address": "Address 6",
+	"City": "City 6",
+	"Region": "Region 6",
+	"PostalCode": "PostalCode 6",
+	"Country": "Country 6",
+	"HomePhone": "HomePhone 6",
+	"ResumeID": 7648,
+	"__metadata": {
+		"uri": "Employees(1369)",
+		"type": "NavigationModel.Employee"
+	},
+	"Resume": {
+		"__deferred": {
+			"uri": "Employees(1369)/Resume"
+		}
+	}
+}, {
+	"Id": 8260,
+	"LastName": "LastName 7",
+	"FirstName": "FirstName 7",
+	"Address": "Address 7",
+	"City": "City 7",
+	"Region": "Region 7",
+	"PostalCode": "PostalCode 7",
+	"Country": "Country 7",
+	"HomePhone": "HomePhone 7",
+	"ResumeID": 975,
+	"__metadata": {
+		"uri": "Employees(8260)",
+		"type": "NavigationModel.Employee"
+	},
+	"Resume": {
+		"__deferred": {
+			"uri": "Employees(8260)/Resume"
+		}
+	}
+}, {
+	"Id": 1589,
+	"LastName": "LastName 8",
+	"FirstName": "FirstName 8",
+	"Address": "Address 8",
+	"City": "City 8",
+	"Region": "Region 8",
+	"PostalCode": "PostalCode 8",
+	"Country": "Country 8",
+	"HomePhone": "HomePhone 8",
+	"ResumeID": 4294,
+	"__metadata": {
+		"uri": "Employees(1589)",
+		"type": "NavigationModel.Employee"
+	},
+	"Resume": {
+		"__deferred": {
+			"uri": "Employees(1589)/Resume"
+		}
+	}
+}, {
+	"Id": 740,
+	"LastName": "LastName 9",
+	"FirstName": "FirstName 9",
+	"Address": "Address 9",
+	"City": "City 9",
+	"Region": "Region 9",
+	"PostalCode": "PostalCode 9",
+	"Country": "Country 9",
+	"HomePhone": "HomePhone 9",
+	"ResumeID": 7161,
+	"__metadata": {
+		"uri": "Employees(740)",
+		"type": "NavigationModel.Employee"
+	},
+	"Resume": {
+		"__deferred": {
+			"uri": "Employees(740)/Resume"
+		}
+	}
+}, {
+	"Id": 5700,
+	"LastName": "LastName 10",
+	"FirstName": "FirstName 10",
+	"Address": "Address 10",
+	"City": "City 10",
+	"Region": "Region 10",
+	"PostalCode": "PostalCode 10",
+	"Country": "Country 10",
+	"HomePhone": "HomePhone 10",
+	"ResumeID": 8501,
+	"__metadata": {
+		"uri": "Employees(5700)",
+		"type": "NavigationModel.Employee"
+	},
+	"Resume": {
+		"__deferred": {
+			"uri": "Employees(5700)/Resume"
+		}
+	}
+}]
